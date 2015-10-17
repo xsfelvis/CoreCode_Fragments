@@ -7,7 +7,7 @@
 - 使用俩个布局（发送和接受布局）重写Adapter的getView方法<br>
 - 主要涉及到getItemViewType用来返回第position个Item的类型；getViewTypeCount（）返回不同布局的总数<br>
 
-##*App管理核心代码*
+##*App管理核心代码 (AppManager.java)*
 - 主要使用一个stack，每次onCreate的时候将活动对象进栈，finish的时候出栈，退出的时候遍历stack，全部出栈
 - <code> /* 销毁*/
 	@Override
