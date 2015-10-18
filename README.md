@@ -22,7 +22,11 @@
 		AppManager.getAppManager().addActivity(this);
 	}</code>
 
-
+##*Androd常用辅助方法（Util.java）*
+- 获取屏幕高度、宽度
+- 获取屏幕密度、dip2px
+- 获取状态栏高度
+- 获取当前屏幕截图（包含状态看/不包含状态栏）
 
 
 
