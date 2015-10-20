@@ -28,5 +28,7 @@
 - 获取状态栏高度
 - 获取当前屏幕截图（包含状态看/不包含状态栏）
 
-
+##*AsyncTask和Handler结合使用（MainActivity.java）*
+-AsyncTask使用
+-在AsyncTask的doBackInground方法使用Handler进行UI操作（doBackInground自身只能做耗时而不可做ui更新）
 
