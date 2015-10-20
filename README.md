@@ -34,3 +34,5 @@
 - AsyncTask使用
 - 在AsyncTask的doBackInground方法使用Handler进行UI操作（doBackInground自身只能做耗时而不可做ui更新）
 
+##*带有进度条的AsynTask下载例子（AsynTaskTest.java）*
+- 将AsynTask四个子函数全部用上的demo很简单
