@@ -36,3 +36,6 @@
 
 ##*带有进度条的AsynTask下载例子（AsynTaskTest.java）*
 - 将AsynTask四个子函数全部用上的demo很简单
+
+##*常用的颜色配置文件（colors.xml）*
+- 有42种颜色可供选择非常方便
