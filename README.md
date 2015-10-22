@@ -39,3 +39,6 @@
 
 ##*常用的颜色配置文件（colors.xml）*
 - 有42种颜色可供选择非常方便
+
+##*自定义圆形头像控件(CircleImageViewNew.java)*
+- 需要在values文件夹下设置对应的资源属性即可
