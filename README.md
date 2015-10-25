@@ -42,3 +42,6 @@
 
 ##*自定义圆形头像控件(CircleImageViewNew.java)*
 - 需要在values文件夹下设置对应的资源属性即可
+
+##*surceView 编写模板(surceViewDemo.java)*
+- surceView编写模板 helloworld
