@@ -23,7 +23,8 @@
     <color name="gray">#ff333333</color>
     <color name="yellow_green">#ffb2d235</color>
     <color name="green_yellow">#ADFF2F</color>
-    <color name="light_blue">#5CACEE</color>
+    <color name="dark_blue">#5CACEE</color>
+    <color name="light_blue">#0DDCFF</color>
     <color name="light_gray">#87CEEB</color>
     <color name="orange_red">#613030</color>
     <color name="whiteGray">#ffC9CACB</color>
