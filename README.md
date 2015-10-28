@@ -45,3 +45,6 @@
 
 ##*surceView 编写模板(surceViewDemo.java)*
 - surceView编写模板 helloworld
+
+##*带删除功能的EditText控件核心代码( EditDel.java)*
+- 带删除功能的自定义EditText控件
