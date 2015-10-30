@@ -48,3 +48,8 @@
 
 ##*带删除功能的EditText控件核心代码( EditDel.java)*
 - 带删除功能的自定义EditText控件
+
+##*Activity操作的一些常用工具方法(ActivityUtil.java)*
+-  随时关闭所有Activity
+-  杀死整个App,连后台都要杀死
+-  双击返回键退出程序
