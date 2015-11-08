@@ -38,7 +38,8 @@
 - 将AsynTask四个子函数全部用上的demo很简单
 
 ##*常用的颜色配置文件（colors.xml）*
-- 有42种颜色可供选择非常方便
+- 反编译网易GaCha的资源获得
+- 有很多种颜色可供选择非常方便
 
 ##*自定义圆形头像控件(CircleImageViewNew.java)*
 - 需要在values文件夹下设置对应的资源属性即可
@@ -54,7 +55,7 @@
 -  杀死整个App,连后台都要杀死
 -  双击返回键退出程序
 
-##*Activity切换动画的常用配置文件*
+##*Activity切换动画的常用配置文件（AnimatorXmlActivity）*
 - 主要有
 - 对应效果：
 - 淡入淡出效果
@@ -69,3 +70,7 @@
 - 放大淡出效果
 - 缩小效果
 - 上下交错效果
+
+##*Volley框架练习Demo（Volley学习核心代码）*
+- volley常用的post/get请求方式
+- Volley3中图片加载方式
