@@ -75,5 +75,5 @@
 - volley常用的post/get请求方式
 - Volley3中图片加载方式
 
-##* viewPager+fragment实现框架*
+##*viewPager+fragment实现框架（viewPager+fragment）*
 - 类似微信滑动框架
