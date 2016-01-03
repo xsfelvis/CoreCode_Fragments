@@ -77,3 +77,7 @@
 
 ##*viewPager+fragment实现框架（viewPager+fragment）*
 - 类似微信滑动框架
+
+
+##*HorizontalScrollViewWithListener.java*
+- 带水平左右滑动监听的HorizonScrollView 
