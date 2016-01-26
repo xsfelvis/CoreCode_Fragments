@@ -82,3 +82,5 @@
 ##*HorizontalScrollViewWithListener.java*
 - 带水平左右滑动监听的HorizonScrollView 
 - 项目需求，使用在分享部分
+##*Async*
+- 线程池处理提供UI DB BG三种场景
