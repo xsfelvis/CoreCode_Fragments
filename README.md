@@ -85,3 +85,8 @@
 
 ##*Async*
 - 线程池处理提供UI DB BG三种场景
+
+##*citypickerDemo*
+- 自定义 选择侧栏（类似通信录 ）
+- 复杂Adapter的学习使用
+
