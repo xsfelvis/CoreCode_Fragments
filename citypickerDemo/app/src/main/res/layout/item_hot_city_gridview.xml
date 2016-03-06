@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/content_bg">
+    <TextView
+        android:id="@+id/tv_hot_city_name"
+        android:layout_width="match_parent"
+        android:background="?android:attr/selectableItemBackground"
+        android:gravity="center"
+        android:textSize="16dp"
+        android:textColor="@color/gray_deep"
+        android:text="ceshi1"
+        android:layout_height="40dp"/>
+
+</LinearLayout>

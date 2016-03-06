@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:paddingBottom="8dp">
+
+    <TextView
+        style="@style/LetterIndexTextViewStytle"
+        android:text="热门城市"/>
+
+    <com.xsf.citypickerdemo.views.WrapHeightGridView
+        android:id="@+id/gridview_hot_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@android:color/transparent"
+        android:horizontalSpacing="12dp"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="3"
+        android:paddingLeft="16dp"
+        android:paddingRight="36dp"
+        android:scrollbars="none"
+        android:verticalSpacing="12dp"
+
+        >
+
+    </com.xsf.citypickerdemo.views.WrapHeightGridView>
+
+
+</LinearLayout>

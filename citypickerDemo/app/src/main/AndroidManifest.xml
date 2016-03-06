@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.xsf.citypickerdemo"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--android:allowBackup="true" 是否允许备份应用的数据，默认是true,当备份数据的时候，它的数据会被备份下来。如果设为false，那么绝对不会备份应用的数据，即使是备份整个系统。-->
+    <!--android:supportsRtl="true" 主要是方便开发者去支持阿拉伯语/波斯语等阅读习惯是从右往左-->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait"
+                  android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
