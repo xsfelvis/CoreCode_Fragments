@@ -92,5 +92,10 @@
 
 ##*RecyclerView的2种监听方式.java*
 
+<<<<<<< HEAD
 ##* LoadingStates*
 -页面记载不同状态类
+=======
+##*base*
+- usefull base include fragment and actvity 
+>>>>>>> 000de5ee6b9ff5536944bac8f18a879f77146eea
