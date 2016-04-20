@@ -98,4 +98,6 @@
 =======
 ##*base*
 - usefull base include fragment and actvity 
->>>>>>> 000de5ee6b9ff5536944bac8f18a879f77146eea
+
+##*doubleClick.java*
+- in case of two clicks time less than 0.5s 
