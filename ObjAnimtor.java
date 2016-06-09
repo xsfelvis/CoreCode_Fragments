@@ -62,4 +62,12 @@ public final class ObjAnimtor {
         animatorSet.setDuration(2000L);
         return animatorSet;
     }
+
+    public static Animator rotation(View view, float fromY, float toY) {
+        ObjectAnimator objectAnimator = ObjectAnimator.ofFloat(view,
+                "rotationX", fromY, toY);
+        objectAnimator.setDuration(2000L);
+        return objectAnimator;
+    }
+
 }
